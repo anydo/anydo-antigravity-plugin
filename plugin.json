@@ -15,5 +15,12 @@
     "url": "https://www.any.do/"
   },
   "homepage": "https://www.any.do/",
-  "keywords": ["anydo", "tasks", "productivity", "calendar", "reminders"]
+  "license": "Apache-2.0",
+  "keywords": [
+    "anydo",
+    "tasks",
+    "productivity",
+    "calendar",
+    "reminders"
+  ]
 }
