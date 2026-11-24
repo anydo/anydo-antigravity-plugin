@@ -1,0 +1,19 @@
+{
+  "$schema": "https://antigravity.google/schemas/v1/plugin.json",
+  "name": "anydo",
+  "displayName": "Any.do",
+  "version": "0.1.0",
+  "description": "Manage Any.do personal tasks, workspace boards and sections, subtasks, reminders, and connected calendar events from your agent.",
+  "logo": "assets/anydo-logo.png",
+  "suggestedPrompts": [
+    "Show my Any.do lists.",
+    "Find my tasks due this week.",
+    "Show my calendar events for tomorrow."
+  ],
+  "author": {
+    "name": "Any.do",
+    "url": "https://www.any.do/"
+  },
+  "homepage": "https://www.any.do/",
+  "keywords": ["anydo", "tasks", "productivity", "calendar", "reminders"]
+}
